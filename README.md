@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Veekshith Kadaveru  
-
 **Senior Android Developer | Kotlin | Jetpack Compose | MVVM | Clean Architecture | Firebase | Hilt | Room | Retrofit**
 
 ---
 
 ## 🧠 About Me  
 
-I’m an experienced Android developer with over **6 years of professional experience** in building scalable, high-quality Android applications.  
+I’m an experienced Android developer with over **5+ years of professional experience** in building scalable, high-quality Android applications.  
 My core expertise lies in **modern Android development** using **Kotlin**, **Jetpack Compose**, and **Clean Architecture principles**.  
 
 I’m passionate about designing intuitive UIs, writing clean and maintainable code, and leveraging Android’s latest libraries to deliver smooth user experiences.  
