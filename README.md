@@ -82,7 +82,7 @@ Features progressive difficulty, animations, and reward-based ads for extended g
 ## 📫 Connect With Me  
 
 📧 **Email:** veekshithkadaveru4@gmail.com  
-💼 **LinkedIn:** [[linkedin.com/in/veekshithkadaveru](https://www.linkedin.com/in/veekshith-kadaveru-461170167/)](#)  
+💼 **LinkedIn:** [[linkedin.com/in/veekshithkadaveru](https://www.linkedin.com/in/veekshith-kadaveru-461170167/)]
 ---
 
 > “Build with precision. Optimize with intent. Deliver with impact.”
